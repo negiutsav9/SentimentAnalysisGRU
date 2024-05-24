@@ -9,13 +9,13 @@ of a given sentence.
 ## Source Code Details
 For this assignment, the details about the source code are as follows:
 <ul>
-  <li>hw9.py: Source code consisting of all the essential classes, functions & main ML pipeline for
+  <li>GRU.py: Source code consisting of all the essential classes, functions & main ML pipeline for
 training and evaluating a GRU-based neural network which is trained and tested using the given
 data.csv file.</li>
-    <li>hw9_extra_200.py: Source code consisting of all the essential classes, functions and main ML
+    <li>GRU_extra_200.py: Source code consisting of all the essential classes, functions and main ML
 pipeline for training and evaluating a GRU-based neural network which is trained and tested using
 SentimentDataset200.</li>
-  <li>hw9_extra_400.py: Source code consisting of all the essential classes, functions and main ML
+  <li>GRU_extra_400.py: Source code consisting of all the essential classes, functions and main ML
 pipeline for training and evaluating a GRU-based neural network which is trained and tested using
 SentimentDataset400.</li>
 </ul>
